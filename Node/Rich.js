@@ -1,1 +1,1 @@
-console.log("gay")
+console.log("gayyy")
